@@ -1,0 +1,9 @@
+.noTodo {
+  color: white;
+  margin-top: 50px;
+}
+
+.todoListContainer {
+  width: 60%;
+  margin: auto;
+}
